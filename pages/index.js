@@ -41,7 +41,7 @@ export default function Home() {
         >
           <span className="font-bold text-black">Don't have a Sprig?</span> Get
           your limited edition case by submitting your first Sprig game to the
-          gallery. Every PR that’s accepted in time, will get the case shipped
+          gallery. Every PR that’s accepted in time will get the case shipped
           with their Sprig console.
         </a>
         <a
