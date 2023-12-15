@@ -21,7 +21,7 @@ export default function Home() {
           alt="Hack Club"
         />
       </a>
-      <div className="mx-10 mt-32 flex flex-col items-center justify-center gap-5 lg:mt-0 lg:w-1/2">
+      <div className="left flex flex-col items-center justify-center gap-5 px-10 pt-32 lg:mt-0 lg:w-1/2">
         <img src="/SprigLogo.svg" />
         <p className="relative mb-10 rounded-full border-4 border-[#bc2c26] px-4 py-2 text-center text-2xl font-semibold">
           A new drop for both current and new sprigsters.
