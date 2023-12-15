@@ -25,8 +25,8 @@ export function Vanilla() {
     <div className="flex h-[42vh] items-center justify-center overflow-visible pt-32">
       <Canvas>
         <MeshComponent />
-        <ambientLight />
-        <pointLight position={[10, 10, 10]} />
+        <ambientLight intensity={3} />
+        <pointLight position={[0, 20, 10]} intensity={3} />
       </Canvas>
     </div>
   );

@@ -25,8 +25,8 @@ export function RedVelvet() {
     <div className="flex h-[50vh] items-center justify-center">
       <Canvas>
         <MeshComponent />
-        <ambientLight />
-        <pointLight position={[10, 10, 10]} />
+        <ambientLight intensity={2} />
+        <pointLight position={[0, 20, 10]} intensity={1.5} />
       </Canvas>
     </div>
   );
