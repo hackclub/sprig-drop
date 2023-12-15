@@ -2,17 +2,20 @@
 @tailwind components;
 @tailwind utilities;
 
-html.dark {
-    color: #ffffff;
-    background-color: #000000;
+html {
+    color: #bc2c26;
+    background-color: #e9e7db;
+    transition: "all .5s ease";
 }
 
 /* Fixes Tailwind h-screen on iPhones */
 @supports (-webkit-touch-callout: none) {
     .h-screen {
-      height: -webkit-fill-available;
+        height: -webkit-fill-available;
     }
-  }
+}
 
 /* Fixes outline style for inputs on Safari */
-input:focus { outline: none; }
+input:focus {
+    outline: none;
+}
