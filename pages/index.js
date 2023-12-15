@@ -57,10 +57,10 @@ export default function Home() {
         </a>
       </div>
       <div className="flex flex-col lg:w-1/2">
-        <div className="h-1/4 border-[#bc2c26] bg-[#e9e7db] lg:h-1/2 lg:border-l-4">
+        <div className="h-1/4 border-[#bc2c26] bg-[#e9e7db] lg:h-1/2 lg:border-l-4 flex items-center justify-center">
           <img src="https://raw.githubusercontent.com/hackclub/sprig-drop/main/public/RedVelvet.png" alt="Red Velvet Case" width="429" height="212" />
         </div>
-        <div className="h-1/4 bg-[#bc2c26] lg:h-1/2">
+        <div className="h-1/4 bg-[#bc2c26] lg:h-1/2 flex items-center justify-center">
           <img src="https://raw.githubusercontent.com/hackclub/sprig-drop/main/public/Vanilla.png" alt="Red Velvet Case" width="429" height="212" />
         </div>
       </div>
