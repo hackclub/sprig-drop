@@ -22,7 +22,7 @@ export default function Home() {
         />
       </a>
       <div className="left flex flex-col items-center justify-center gap-5 px-10 pt-32 lg:mt-0 lg:w-1/2">
-            <img class="h-auto max-w-md" src="https://raw.githubusercontent.com/hackclub/sprig-drop/main/public/shawnxhackclub_test.png" alt="image description">
+            <img class="h-auto max-w-md" src="https://raw.githubusercontent.com/hackclub/sprig-drop/main/public/shawnxhackclub_test.png" alt="image description" />
         <p className="relative mb-10 rounded-full border-4 border-[#bc2c26] px-4 py-2 text-center text-2xl font-semibold">
           A new drop for both current and new sprigsters.
           <Sparkles
