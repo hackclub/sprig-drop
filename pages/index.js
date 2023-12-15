@@ -22,7 +22,7 @@ export default function Home() {
         />
       </a>
       <div className="left flex flex-col items-center justify-center gap-5 px-10 pt-32 lg:mt-0 lg:w-1/2">
-            <img class="h-auto max-w-md mx-auto" src="https://raw.githubusercontent.com/hackclub/sprig-drop/main/public/shawnxhackclub_test.png" alt="Snazzy logo" />
+            <img class="h-auto max-w-md mx-auto" src="https://raw.githubusercontent.com/hackclub/sprig-drop/main/public/Shawnxhackclub_2.png" alt="Snazzy logo" />
         <p className="relative mb-10 rounded-full border-4 border-[#bc2c26] px-4 py-2 text-center text-2xl font-semibold">
           A new drop for both current and new sprigsters.
           <Sparkles
@@ -58,11 +58,11 @@ export default function Home() {
       </div>
       <div className="flex flex-col lg:w-1/2">
         <div className="h-1/4 border-[#bc2c26] bg-[#e9e7db] lg:h-1/2 lg:border-l-4 flex items-center justify-center">
-          <img class="h-auto max-w-md mx-auto" src="https://raw.githubusercontent.com/hackclub/sprig-drop/main/public/RedVelvet.png" alt="Snazzy logo" />
+          <img class="h-auto max-w-md mx-auto" src="https://raw.githubusercontent.com/hackclub/sprig-drop/main/public/RedVelvet.png" alt="Red Velvet Case" />
 
         </div>
         <div className="h-1/4 bg-[#bc2c26] lg:h-1/2 flex items-center justify-center">
-          <img class="h-auto max-w-md mx-auto" src="https://raw.githubusercontent.com/hackclub/sprig-drop/main/public/Vanilla.png" alt="Snazzy logo" />
+          <img class="h-auto max-w-md mx-auto" src="https://raw.githubusercontent.com/hackclub/sprig-drop/main/public/Vanilla.png" alt="Vanilla Case" />
 
         </div>
       </div>
