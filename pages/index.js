@@ -41,16 +41,16 @@ export default function Home() {
         >
           <span className="font-bold text-black">Don't have a Sprig?</span> Get
           your limited edition case by submitting your first Sprig game to the
-          gallery. Every PR that’s accepted in time, will get the case shipped
+          gallery. Every PR that’s accepted in time will get the case shipped
           with their Sprig console.
         </a>
         <a
           href="https://hackclub.com/slack/"
           className="rounded-lg border-2 border-dashed border-[#bc2c26] px-4 py-8 text-2xl font-medium hover:bg-[#bc2c26] hover:bg-opacity-10"
         >
-          <span className="font-bold text-black">I have a Sprig!</span> Create a
-          30 second or longer playthrough video of your game fully running on
-          your Sprig device. Post your video in{" "}
+          <span className="font-bold text-black">I have a Sprig!</span> Create a video 
+          playing your game to completion (minimum 30 seconds) on your Sprig device.
+          Post your video in{" "}
           <span className="text-blue-800">#sprig</span> to get your case! Use
           <span className="text-blue-800"> /address</span> to check and update
           your mailing address.
