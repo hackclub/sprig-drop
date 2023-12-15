@@ -6,6 +6,7 @@ import Sparkles from "react-sparkle";
 export default function Home() {
   return (
     <div className="flex h-screen flex-col justify-between lg:flex-row">
+      <meta name="theme-color" content="#bc2c26" />
       <a href="https://hackclub.com/">
         <img
           style={{
