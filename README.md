@@ -1,13 +1,8 @@
-# Perfect
-The best Next.js boilerplate ever.
+# Sprig Drop Website
+A website created in 30 minutes for the upcoming Sprig case drop for winter.
 # What does this have?
-- Tailwind CSS (no more going through the installation guide!) - for styling components easily
-- `next-themes` (@pacocoursey) - for going to the dark side
-- `swr` (@vercel) - for fetching constantly mutating data
-  - `fetcher.js` so you don't have to keep writing return functions
-- `framer-motion` - for making interactive components and eye-catching animations
-- `react-icons` - for including your favorite icon packs without increasing bundle size significantly. Tree shaking included.
-- `classnames` - for conditionally applying classes to components
+- Tailwind CSS
 - `react-wrap-balancer` - for balancing text widths for titles and paragraphs
+- ThreeJS - for the 3D model
 
-&copy; 2021 Sarthak Mohanty. Licensed under the [Unlicense](LICENSE) from Mozilla.
+Made by Sarthak Mohanty for Hack Club. Licenses for Hack Club apply.
