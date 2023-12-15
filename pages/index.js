@@ -51,9 +51,7 @@ export default function Home() {
           <span className="font-bold text-black">I have a Sprig!</span> Create a video 
           playing your game to completion (minimum 30 seconds) on your Sprig device.
           Post your video in{" "}
-          <span className="text-blue-800">#sprig</span> to get your case! Use
-          <span className="text-blue-800"> /address</span> to check and update
-          your mailing address.
+          <span className="text-blue-800">#sprig</span> to get your case! 
         </a>
       </div>
       <div className="flex flex-col lg:w-1/2">
