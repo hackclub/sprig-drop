@@ -24,7 +24,7 @@ export default function Home() {
       <div className="left flex flex-col items-center justify-center gap-5 px-10 pt-32 lg:mt-0 lg:w-1/2">
             <img class="h-auto max-w-md mx-auto" src="https://raw.githubusercontent.com/hackclub/sprig-drop/main/public/Shawnxhackclub_2.png" alt="Snazzy logo" />
         <p className="relative mb-10 rounded-full border-4 border-[#bc2c26] px-4 py-2 text-center text-2xl font-semibold">
-          A new drop for both current and new sprigsters.
+          DROP ENDED. (there will be others...).
           <Sparkles
             color="#bc2c26"
             count={20}
